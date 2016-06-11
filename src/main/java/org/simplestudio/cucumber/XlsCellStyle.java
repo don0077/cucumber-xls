@@ -5,8 +5,8 @@ import jxl.format.CellFormat;
 
 /**   
 * @Title: XlsCellStyle.java 
-* @Description: TODO(用一句话描述该文件做什么) 
-* @author zhengzhq E-Mail:zhengzhq@jingoal.com
+* @Description: Excel Cell Format,init from template's "other" sheet.
+* @author zhengzhq E-Mail:zzq0324@qq.com
 * @date 2016年6月11日 下午8:01:07 
 */
 public class XlsCellStyle {

@@ -5,7 +5,7 @@ import gherkin.formatter.model.Result;
 /**   
 * @Title: CucumberElement.java 
 * @Description: CucumberElement
-* @author zhengzhq E-Mail:zhengzhq@jingoal.com
+* @author zhengzhq E-Mail:zzq0324@qq.com
 * @date 2016年6月11日 上午7:41:55 
 */
 public class CucumberElement {

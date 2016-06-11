@@ -5,7 +5,7 @@ import java.text.NumberFormat;
 /**   
 * @Title: Util.java 
 * @Description: Util
-* @author zhengzhq E-Mail:zhengzhq@jingoal.com
+* @author zhengzhq E-Mail:zzq0324@qq.com
 * @date 2016年6月11日 下午5:32:57 
 */
 public class Util {

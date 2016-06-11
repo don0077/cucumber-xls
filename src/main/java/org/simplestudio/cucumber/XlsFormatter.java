@@ -31,7 +31,7 @@ import jxl.write.WriteException;
 
 /**   
 * @Title: XlsFormatter.java 
-* @Description: cucumber运行结果导出成excel,包含详细和汇总两个sheet
+* @Description: cucumber xls formatter,report contains summary and detail.
 * @author zhengzhq E-Mail:zzq0324@qq.com
 * @date 2016年6月10日 下午9:23:09 
 */
